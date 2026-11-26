@@ -1,5 +1,7 @@
 package com.restassured.utilities;
 
+//checking the payloads for the API requests
+
 public class Payloads {
 
     public static String AddPlace() {
